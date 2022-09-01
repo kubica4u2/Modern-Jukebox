@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.kubitools.modernjukebox",
+                 "sha256_cert_fingerprints": ["30:18:07:A7:02:2A:D5:B5:65:88:52:37:25:F8:AB:78:55:5C:72:59:0A:C0:3E:3A:86:50:B2:04:95:CB:29:A7"] }
+  }]
